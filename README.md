@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Oi, eu sou o André!</h1>
+  <h1>Oi, eu sou o <a href="https://andrezigiotti.vercel.app/" target="_blank">André</a>!</h1>
 </div>
 
 <div align="center">
@@ -18,6 +18,7 @@ Seja muito bem-vindo ao meu repositório. Algumas informações sobre mim:
 
 - 🔭 Atualmente trabalhando como Desenvolvedor Fullstack na [SitesWP](https://siteswp.com.br/)
 - 🌱 Estudando React no front-end e back-end com Node e Express
+- 🔗 Visite <a href="https://andrezigiotti.vercel.app/">meu site</a>
 - 💬 Fique à vontade para me perguntar qualquer coisa, se eu souber responder, com certeza responderei 😉
 - 🤘 Amante de metal e música boa em geral
 - 🎮 Gamer nas horas vagas
